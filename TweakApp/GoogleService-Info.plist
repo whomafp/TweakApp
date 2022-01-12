@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>648761039348-7fus7uqp9lmp5vjm14oh9hgsb6jtkl8b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.648761039348-7fus7uqp9lmp5vjm14oh9hgsb6jtkl8b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABMAVBh9g-COQsIk5coZDtV6hkRvajUTU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>648761039348</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>joysoft.TweakApp</string>
+	<key>PROJECT_ID</key>
+	<string>tweakapp-4dcb4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tweakapp-4dcb4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:648761039348:ios:f38633b717bb090f2181a1</string>
+</dict>
+</plist>
